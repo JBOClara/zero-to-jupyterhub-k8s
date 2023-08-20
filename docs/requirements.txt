@@ -15,3 +15,4 @@ sphinx-autobuild
 sphinx-copybutton
 sphinxext-opengraph
 sphinxext-rediraffe
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
