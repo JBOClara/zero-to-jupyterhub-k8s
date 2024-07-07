@@ -22,7 +22,7 @@ bcrypt==3.2.2
     # via
     #   jupyterhub-firstuseauthenticator
     #   jupyterhub-nativeauthenticator
-certifi==2023.7.22
+certifi==2024.7.4
     # via
     #   kubernetes-asyncio
     #   requests
