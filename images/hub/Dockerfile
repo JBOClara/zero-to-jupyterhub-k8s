@@ -29,7 +29,7 @@ RUN pip install build \
 
 # The final stage
 # ---------------
-FROM python:3.9-slim-bullseye
+FROM python:3.12.7-slim-bullseye
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
